@@ -1,7 +1,7 @@
 export const siteConfig = {
-  title: 'Next.js + Tailwind CSS + TypeScript Starter',
+  title: 'Alien Giraffe | Your customers, their data.',
   description:
-    'A starter for Next.js, Tailwind CSS, and TypeScript with Absolute Import, Seo, Link component, pre-configured with Husky',
+    'Seamless integration with your customers data infrastructure. Forget about stalled deals and contracted ARR that never turns into accurred ARR, Alien Giraffe helps you to deliver morevalue faster with less hustle.',
   /** Without additional '/' on the end, e.g. https://theodorusclarence.com */
-  url: 'https://tsnext-tw.thcl.dev',
+  url: 'https://aliengiraffe.ai',
 };
