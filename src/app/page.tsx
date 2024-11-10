@@ -37,10 +37,10 @@ export default function HomePage() {
                   Your customers, their data.
                 </h1>
                 <p className='text-lg md:text-xl max-w-lg text-primary-50'>
-                  Seamless integration with your customers data infrastructure.
-                  Forget about stalled deals and contracted ARR that never turns
-                  into accurred ARR, Alien Giraffe helps you to deliver
-                  morevalue faster with less hustle.
+                  Seamless integration with your customer's data. Forget about
+                  stalled deals and contracted ARR that never turns into accrued
+                  ARR, Alien Giraffe helps you to deliver more value faster with
+                  less hustle.
                 </p>
                 <div className='space-x-4'>
                   {/* <button
